@@ -1,0 +1,11 @@
+title: Lilla Orr
+email: lilla.orr@yale.edu
+description: Political Scientist
+baseurl: "" # the subpath of the site
+url: "http://lillaorr.com" # the base hostname & protocol for the site
+github_username:  lillaorr
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
