@@ -9,19 +9,14 @@ order: 1
 
 **Publications**
 
-<p>"Violence and discrimination against men who have sex with men in Lebanon: the role of international displacement and migration" with Fatma M. Shebl, Robert Heimerd, Kaveh Khoshnood, Russell Barbour, Danielle Khouri, Elie Aaraj, Jacques Mokhbat, and Forrest W. Crawford, 2019, 
+<p>"The Policy Basis of Measured Partisan Animosity in the United States" with Gregory A. Huber
+<br><a href="https://doi.org/10.1111/ajps.12498" target="_blank">American Journal of Political Science</a>, <a href="https://doi.org/10.7910/DVN/RFECVH" target="_blank">Replication Files</a></p>
+
+<p>"What Would Delegates Do? When and Why the Delegate Paradox Matters" with Matthew H. Graham
+<br><a href="https://doi.org/10.1016/j.electstud.2019.102109" target="_blank">Electoral Studies</a></p>
+
+<p>"Violence and discrimination against men who have sex with men in Lebanon: the role of international displacement and migration" with Fatma M. Shebl, Robert Heimerd, Kaveh Khoshnood, Russell Barbour, Danielle Khouri, Elie Aaraj, Jacques Mokhbat, and Forrest W. Crawford, 2019 
 <br><a href="https://doi.org/10.1177/0886260519884684" target="_blank">Journal of Interpersonal Violence</a></p>
-
-
-**Selected Working Papers**
-
-<p>"The Policy Basis of Measured Partisan Animosity in the United States" with Gregory A. Huber, accepted at the American Journal of Political Science
-<br><a href="https://doi.org/10.7910/DVN/RFECVH" target="_blank">Replication Files</a></p>
-
-<p>"What Would Delegates Do? When and Why the Delegate Paradox Matters" with Matthew H. Graham, under review</p>
-
-<p>"No War on Opioids? Race, Medical Missteps, and Support for Punitive Drug Policy"</p>
-
 
 **Software**
 
