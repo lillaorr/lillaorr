@@ -12,7 +12,7 @@ order: 1
 <p>"The Policy Basis of Measured Partisan Animosity in the United States" with Gregory A. Huber
 <br><a href="https://doi.org/10.1111/ajps.12498" target="_blank">American Journal of Political Science</a>, <a href="https://doi.org/10.7910/DVN/RFECVH" target="_blank">Replication Files</a></p>
 
-<p>"What Would Delegates Do? When and Why the Delegate Paradox Matters" with Matthew H. Graham
+<p>"What would delegates do? When and how the delegate paradox affects estimates of ideological congruence" with Matthew H. Graham
 <br><a href="https://doi.org/10.1016/j.electstud.2019.102109" target="_blank">Electoral Studies</a></p>
 
 <p>"Violence and discrimination against men who have sex with men in Lebanon: the role of international displacement and migration" with Fatma M. Shebl, Robert Heimerd, Kaveh Khoshnood, Russell Barbour, Danielle Khouri, Elie Aaraj, Jacques Mokhbat, and Forrest W. Crawford, 2019 
