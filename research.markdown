@@ -10,7 +10,7 @@ order: 1
 **Publications**
 
 <p>"The Policy Basis of Measured Partisan Animosity in the United States" with Gregory A. Huber
-<br><a href="https://doi.org/10.1111/ajps.12498" target="_blank">American Journal of Political Science</a>, <a href="https://doi.org/10.7910/DVN/RFECVH" target="_blank">Replication Files</a></p>
+<br><a href="https://doi.org/10.1111/ajps.12498" target="_blank">American Journal of Political Science</a>, <a href="https://ajps.org/2020/01/02/the-policy-basis-of-measured-partisan-animosity-in-the-united-states/" target="_blank">Summary</a>, <a href="https://doi.org/10.7910/DVN/RFECVH" target="_blank">Replication Files</a></p>
 
 <p>"What would delegates do? When and how the delegate paradox affects estimates of ideological congruence" with Matthew H. Graham
 <br><a href="https://doi.org/10.1016/j.electstud.2019.102109" target="_blank">Electoral Studies</a>, <a href="https://doi.org/10.7910/DVN/7MN7OD" target="_blank">Replication Files</a></p>
