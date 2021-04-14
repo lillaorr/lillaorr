@@ -5,7 +5,7 @@ permalink: /research/
 order: 1
 ---
 
-<p>My research lies at the intersection of politics and public health, with a focus on social group dynamics. Ongoing dissertation projects examine several aspects of the political response to modern opioid use trends in the United States.</p>
+<p>My research lies at the intersection of politics and public health, with a focus on social group dynamics. My dissertation examines several aspects of the political response to modern opioid use trends in the United States.</p>
 
 **Publications**
 
