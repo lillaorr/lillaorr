@@ -9,6 +9,12 @@ order: 1
 
 **Publications**
 
+<p>"Health Care Utilization Before and After the "Muslim Ban" Executive Order Among People Born in Muslim-Majority Countries and Living in the US" with Elizabeth A. Samuels, Elizabeth B. White, Altaf Saadi, Aasim I. Padela, Michael Westerhaus, Aarti D. Bhatt, Pooja Agrawal, Dennis Wang, and Gregg Gonsalves
+<br><a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2782563" target="_blank">JAMA Network Open</a></p>
+
+<p>"Active Maintenance: A Proposal for the Long-Term Computational Reproducibility of Scientific Results" with Limor Peer and Alexander Coppock
+<br><a href="https://www.doi.org/10.1017/S1049096521000366" target="_blank">PS: Political Science & Politics</a>, <a href="https://doi.org/10.7910/DVN/JLLFGK" target="_blank">Replication Files</a></p>
+
 <p>"The Policy Basis of Measured Partisan Animosity in the United States" with Gregory A. Huber
 <br><a href="https://doi.org/10.1111/ajps.12498" target="_blank">American Journal of Political Science</a>, <a href="https://ajps.org/2020/01/02/the-policy-basis-of-measured-partisan-animosity-in-the-united-states/" target="_blank">Summary</a>, <a href="https://doi.org/10.7910/DVN/RFECVH" target="_blank">Replication Files</a></p>
 
