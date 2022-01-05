@@ -9,6 +9,9 @@ order: 1
 
 **Publications**
 
+<p>"Measuring Misperceptions: Limits of Party-Specific Stereotype Reports" with Gregory A. Huber
+<br><a href="https://doi.org/10.1093/poq/nfab062" target="_blank">Public Opinion Quarterly</a>, <a href="https://doi.org/10.7910/DVN/P2HTGI" target="_blank">Replication Files</a></p>
+
 <p>"Health Care Utilization Before and After the "Muslim Ban" Executive Order Among People Born in Muslim-Majority Countries and Living in the US" with Elizabeth A. Samuels, Elizabeth B. White, Altaf Saadi, Aasim I. Padela, Michael Westerhaus, Aarti D. Bhatt, Pooja Agrawal, Dennis Wang, and Gregg Gonsalves
 <br><a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2782563" target="_blank">JAMA Network Open</a></p>
 
@@ -21,7 +24,7 @@ order: 1
 <p>"What would delegates do? When and how the delegate paradox affects estimates of ideological congruence" with Matthew H. Graham
 <br><a href="https://doi.org/10.1016/j.electstud.2019.102109" target="_blank">Electoral Studies</a>, <a href="https://doi.org/10.7910/DVN/7MN7OD" target="_blank">Replication Files</a></p>
 
-<p>"Violence and discrimination against men who have sex with men in Lebanon: the role of international displacement and migration" with Fatma M. Shebl, Robert Heimer, Kaveh Khoshnood, Russell Barbour, Danielle Khouri, Elie Aaraj, Jacques Mokhbat, and Forrest W. Crawford, 2019 
+<p>"Violence and discrimination against men who have sex with men in Lebanon: the role of international displacement and migration" with Fatma M. Shebl, Robert Heimer, Kaveh Khoshnood, Russell Barbour, Danielle Khouri, Elie Aaraj, Jacques Mokhbat, and Forrest W. Crawford 
 <br><a href="https://doi.org/10.1177/0886260519884684" target="_blank">Journal of Interpersonal Violence</a></p>
 
 **Software**
