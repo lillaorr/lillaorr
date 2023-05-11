@@ -9,6 +9,14 @@ order: 1
 
 **Publications**
 
+<p>"Is Affective Polarization Driven by Identity, Loyalty, or Substance?" with Anthony Fowler and Gregory A. Huber
+<br>American Journal of Political Science (Forthcoming), <a href="https://doi.org/10.7910/DVN/DHMCRC" target="_blank">Replication Files</a></p>
+
+<p>"Sociodemographic characteristics and HIV risk behaviors of native-born and displaced Syrian men and transgender women who have sex with men in Lebanon" with Forrest W. Crawford, Kaveh Khoshnood, Danielle Khouri, Fouad M. Fouad, David W. Seal, and Robert Heimer
+<br><a href="https://link.springer.com/article/10.1007/s10461-022-03726-1" target="_blank">AIDS and Behavior </a></p>    
+<p>"A Note on Increases in Inattentive Online Survey-Takers Since 2020" with John Ternovski
+<br><a href="https://doi.org/10.51685/jqd.2022.002" target="_blank">Journal of Quantitative Description: Digital Media</a>, <a href="https://doi.org/10.7910/DVN/FRM1IC" target="_blank">Replication Files</a></p>
+
 <p>"Measuring Misperceptions: Limits of Party-Specific Stereotype Reports" with Gregory A. Huber
 <br><a href="https://doi.org/10.1093/poq/nfab062" target="_blank">Public Opinion Quarterly</a>, <a href="https://doi.org/10.7910/DVN/P2HTGI" target="_blank">Replication Files</a></p>
 
