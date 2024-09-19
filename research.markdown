@@ -10,7 +10,7 @@ order: 1
 **Publications**
 
 <p>"Is Affective Polarization Driven by Identity, Loyalty, or Substance?" with Anthony Fowler and Gregory A. Huber
-<br>American Journal of Political Science (Forthcoming), <a href="https://doi.org/10.7910/DVN/DHMCRC" target="_blank">Replication Files</a></p>
+<br><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12796" target="_blank">American Journal of Political Science</a>, <a href="https://doi.org/10.7910/DVN/DHMCRC" target="_blank">Replication Files</a></p>
 
 <p>"Sociodemographic characteristics and HIV risk behaviors of native-born and displaced Syrian men and transgender women who have sex with men in Lebanon" with Forrest W. Crawford, Kaveh Khoshnood, Danielle Khouri, Fouad M. Fouad, David W. Seal, and Robert Heimer
 <br><a href="https://link.springer.com/article/10.1007/s10461-022-03726-1" target="_blank">AIDS and Behavior </a></p>    
