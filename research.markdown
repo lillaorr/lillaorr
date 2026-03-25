@@ -9,6 +9,12 @@ order: 1
 
 **Publications**
 
+<p>"How Do Americans Explain Their Party Identification and Out-partisan Animosity?" with Anthony Fowler, Gregory Huber, and Rongbo Jin
+<br><a href="https://drive.google.com/file/d/1sjkbqrTSpBRWPqIvtxQrcN7w1xSgOOvG/view?usp=sharing" target="_blank">Public Opinion Quarterly</a>, <a href="https://doi.org/10.7910/DVN/RUKOQM" target="_blank">Replication Files</a></p>
+
+<p>"Linking deliveries to newborns using nationwide Medicaid data" with Basil Seif, Sun Jeon, Elisa Cascardi, Sakshina Bhatt, Jonas Swartz, Maria Isabel, Lee Sanders, Fernando Mendoza, and Jens Hainmueller
+<br><a href="https://link.springer.com/article/10.1186/s12874-025-02688-x" target="_blank">BMC Medical Research Methodology</a>, <a href="https://zenodo.org/records/17613598" target="_blank">Replication Files</a></p>
+
 <p>"Is Affective Polarization Driven by Identity, Loyalty, or Substance?" with Anthony Fowler and Gregory A. Huber
 <br><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12796" target="_blank">American Journal of Political Science</a>, <a href="https://doi.org/10.7910/DVN/DHMCRC" target="_blank">Replication Files</a></p>
 
